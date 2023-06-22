@@ -1,0 +1,17 @@
+.NET 3.5和.NET 4.0两版功能相同，但只有在安装了对应版本的.NET Framework的条件下方可使用
+
+Win7系统自带.NET Framework 3.5可直接使用.NET 3.5版
+
+Win8、Win8.1自带.NET Framework 4.5，Win10自带.NET Framework 4.6，可直接使用.NET 4.0版
+
+Vista既不自带.NET Framework 3.5也不自带.NET Framework 4.0
+
+如果Win7系统安装了.NET Framework 4.0以上版本则也可使用.NET 4.0版
+
+如果Win8、8.1、10系统安装了.NET Framework 3.5，则也可使用.NET 3.5版
+
+Vista系统则需自行安装.NET Framework
+
+.NET Framework 3.5 SP1下载地址：https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net35-sp1-web-installer
+
+.NET Framework 4.0下载地址：https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net40-web-installer
