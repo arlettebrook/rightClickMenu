@@ -1,5 +1,3 @@
 # rightClickMenu
-Windows右键菜单管理-copy
+Windows右键菜单管理-来自互联网
 
-
-这是一个测试.
