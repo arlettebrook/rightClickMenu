@@ -1,6 +1,11 @@
 # rightClickMenu
 
 
+
+`程序在源码中,下载使用即可`
+
+
+
 [使用声明](./使用声明.txt)
 
 
@@ -9,4 +14,5 @@
 
 
 
-Windows右键菜单管理-来自互联网
+> Windows右键菜单管理-来自[BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)大佬
+
